@@ -1,1 +1,0 @@
-const gello  = "your name "
