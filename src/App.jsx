@@ -1,10 +1,10 @@
 import React from "react";
+import { Main } from "./layout/main/main";
 
 const App = () => {
   return (
-    <div className="bg-black text-white container text-center">
-      {/* import all the components */}
-      <h1>Testingdjcjashcfjdshf</h1>
+    <div className="">
+      <Main/>
     </div>
   );
 };
